@@ -48,7 +48,7 @@ function App() {
       <div className="content">
         <h1>Hello There</h1>
         <h2>I am Doğukan</h2>
-        <p>Site will be launched coming soon...</p>
+        <p>The site will be at your service soon...</p>
 
         <div className="links">
           <a href="https://github.com/DogukanTopcu" target="_blank" ><GitHubIcon /></a>
