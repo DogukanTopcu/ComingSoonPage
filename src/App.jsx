@@ -6,8 +6,6 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 
-
-
 function App() {
   const images = imgData;
   const [img, setImg] = useState(0);
